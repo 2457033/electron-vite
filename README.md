@@ -2,7 +2,7 @@
  * @Author: xiaoshijie 2457033735@qq.com
  * @Date: 2024-05-06 15:44:51
  * @LastEditors: xiaoshijie 2457033735@qq.com
- * @LastEditTime: 2024-05-28 11:38:35
+ * @LastEditTime: 2024-05-28 11:39:46
  * @FilePath: \electron-vite\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -21,9 +21,12 @@
 
 # tailwindcss：只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
 示例
-<div class="mt-[4px]">示例</div> // 代表margin-top: 4px; 无需再写css
 
-```可在vscode插件里下载Tailwind CSS IntelliSense提示符
+
+```
+可在vscode插件里下载Tailwind CSS IntelliSense提示符
+<div class="mt-[4px]">示例</div> // 代表margin-top: 4px; 无需再写css
+```
 文档：https://www.tailwindcss.cn/
 
 - axios 请求封装 - 一键引入，快捷使用
