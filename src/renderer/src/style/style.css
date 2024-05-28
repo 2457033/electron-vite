@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .web-app-region-no {
+    -webkit-app-region: drag;
+  }
+
+  .web-app-region-no {
+    -webkit-app-region: no-drag;
+  }
+}
