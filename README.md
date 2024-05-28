@@ -2,7 +2,7 @@
  * @Author: xiaoshijie 2457033735@qq.com
  * @Date: 2024-05-06 15:44:51
  * @LastEditors: xiaoshijie 2457033735@qq.com
- * @LastEditTime: 2024-05-28 11:46:07
+ * @LastEditTime: 2024-05-28 11:47:36
  * @FilePath: \electron-vite\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -13,11 +13,11 @@
 
 - electron-vite：下一代 Electron 开发构建工具
 
-文档：https://cn-evite.netlify.app/
+- 文档：https://cn-evite.netlify.app/
 
 - pinia：Vue.js 状态管理库，类型安全、可扩展性以及模块化设计。甚至让你忘记正在使用的是一个状态库。
 
-文档：https://pinia.vuejs.org/
+- 文档：https://pinia.vuejs.org/
 
 - tailwindcss：只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
 
