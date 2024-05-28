@@ -21,12 +21,11 @@
 
 - tailwindcss：只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
 
-示例
-
 ```bash
 # 可在vscode插件里下载Tailwind CSS IntelliSense提示符
 # 代表margin-top: 4px; 无需再写css
-$ <div class="mt-[4px]">示例</div>
+# 示例
+<div class="mt-[4px]">示例</div>
 ```
 
 文档：https://www.tailwindcss.cn/
