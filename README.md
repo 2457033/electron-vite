@@ -20,6 +20,7 @@
 - 文档：https://pinia.vuejs.org/
 
 - tailwindcss：只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站
+- 文档：https://www.tailwindcss.cn/
 
 ```bash
 # 可在vscode插件里下载Tailwind CSS IntelliSense提示符
@@ -27,8 +28,6 @@
 <div class="mt-[4px]">示例</div>
 # 代表margin-top: 4px; 无需再写css
 ```
-
-文档：https://www.tailwindcss.cn/
 
 - axios 请求封装 - 一键引入，快捷使用
 
